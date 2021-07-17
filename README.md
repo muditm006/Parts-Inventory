@@ -1,3 +1,1 @@
-# Parts Inventory
-
-The objective of this project was to create a parts management system in python.
+The user wants a system that can be used to store part information. The user wants a system that can store the Part’s name, ID, quantity, sale cost, and production cost. The user wants all of this data to be stored in a file so that it can be accessed on a later date. The User can enter,remove, or update any data relating to any part. The user will also be able to view a sales receipt that stores all of the data of the items purchased (including taxes). This program will be built using some built in libraries: PrettyTable (Library that organizes information for the user), Console-Menu (Library that creates a menu system for the user), Pickle (Used to store information into file), and datetime (Used to print date and time on top of receipt). All of the imported libraries are native to Python.
